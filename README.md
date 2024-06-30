@@ -13,4 +13,4 @@ USE `myDatabase`;\
 CREATE TABLE IF NOT EXISTS `quotes` (\
 	`id` INT(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,\
   `quote` VARCHAR(255)\
-);\
+);
