@@ -1,0 +1,6 @@
+The below instruction will start your web server (Windows):
+
+- Make sure your MySQL server is up and running. It should have automatically started if you installed it via the installer. In addition, ensure MySQL is running on port 3306 otherwise you'll encounter connection errors.
+- Open Command Prompt and navigate to your project directory. You can do this with the command cd c:\your_project_folder_destination on Windows.
+- Run command: set FLASK_DEBUG=1
+- Run command: flask run
